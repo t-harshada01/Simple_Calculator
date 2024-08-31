@@ -3,10 +3,15 @@ Certainly! Here’s a `README.md` file for a basic calculator Python program, in
 ```markdown
 # Basic Calculator
 
-## Author
-Harshada Ganesh Tupe
+Name: Harshada Ganesh Tupe
+Company: CODTECH IT SOLUTIONS PVT.LTD
+Task Name: Simple Calculator (CODTECH TASK)
+Domain: Python Programming
+Duration: 1 August to 1 September 2024
+Mentor: Muzammil Ahmed
+Intern ID: CT08DS6116
 
-## Description
+## Overview Of The Project 
 The Basic Calculator is a simple Python program that performs basic arithmetic operations. It allows users to enter two numbers and choose an operation (addition, subtraction, multiplication, division). The program then performs the selected operation and displays the result.
 
 ## Features
