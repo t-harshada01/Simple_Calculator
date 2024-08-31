@@ -1,6 +1,4 @@
-Certainly! Here’s a `README.md` file for a basic calculator Python program, including your name and details about the project.
 
-```markdown
 # Basic Calculator
 
 Name: Harshada Ganesh Tupe
