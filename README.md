@@ -2,11 +2,17 @@
 # Basic Calculator
 
 Name: Harshada Ganesh Tupe
+
 Company: CODTECH IT SOLUTIONS PVT.LTD
+
 Task Name: Simple Calculator (CODTECH TASK)
+
 Domain: Python Programming
+
 Duration: 1 August to 1 September 2024
+
 Mentor: Muzammil Ahmed
+
 Intern ID: CT08DS6116
 
 ## Overview Of The Project 
